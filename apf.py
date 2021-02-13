@@ -13,8 +13,8 @@ red = Fore.RED
 gr = Fore.GREEN
 yl = Fore.YELLOW  
 w = Fore.WHITE 
-bl = Fore.MAGENTA
-print(f"""{bl}
+bl1 = Fore.MAGENTA
+print(f"""{bl1}
  _______     _       _                                  _        ___ _           _             
 (_______)   | |     (_)                                | |      / __|_)         | |            
  _______  __| |____  _ ____     ____  _____ ____  _____| |    _| |__ _ ____   __| |_____  ____ 
