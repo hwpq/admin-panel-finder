@@ -6,7 +6,8 @@ try:
     from colorama import *
     from queue import Queue
 except Exception as e :
-    print(e)
+    system("pip install colorama")
+    system("pip install requests")
 red = Fore.RED
 gr = Fore.GREEN
 yl = Fore.YELLOW  
