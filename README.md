@@ -1,5 +1,5 @@
 # Linux :
-1 - git https://github.com/7p2/admin-panel-finder.git \
+1 - git clone  https://github.com/7p2/admin-panel-finder.git \
 2 - cd admin-panel-finder \
 3 - python3 apf.py <https://example/>  
   # Pic
