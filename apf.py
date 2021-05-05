@@ -5,7 +5,7 @@ try:
     from os import system
     from colorama import *
     from queue import Queue
-except Exception as e :
+except:
     system("pip install colorama")
     system("pip install requests")
 red = Fore.RED
