@@ -3,6 +3,6 @@
 2 - cd admin-panel-finder \
 3 - python3 apf.py <https://example/>  
   # Pic
-  ![Alt text](https://c.top4top.io/p_1870l1prd1.png "Optional title")
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
   # Account
   instagram >> (https://www.instagram.com/hwpq/)
